@@ -1,0 +1,12 @@
+{
+  "name": "restaurant-project",
+  "version": "1.0.0",
+  "description": "Restaurant project for The Odin's Project",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
